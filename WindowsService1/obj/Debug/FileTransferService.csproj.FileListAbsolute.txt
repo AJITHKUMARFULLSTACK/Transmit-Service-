@@ -1,0 +1,9 @@
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Debug\FileTransferService.csproj.AssemblyReference.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Debug\FileTransferService.csproj.CoreCompileInputs.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Debug\FileTransferService.csproj.GenerateResource.cache

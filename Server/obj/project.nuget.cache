@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lg2x0+Wb/Z7upU1QVjPpeZLxM33Re5jgBkF43Ived8kCunrXo+1l1ZwXVRt1HVqyRutFA6UjSyRc521bSQadtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BI50649\\source\\repos\\Transmit_Service\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BI50649\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\BI50649\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\BI50649\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Release\FileTransferService.csproj.AssemblyReference.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Release\FileTransferService.csproj.GenerateResource.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Release\FileTransferService.csproj.CoreCompileInputs.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\bin\Release\WindowsService1.exe.config
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\bin\Release\WindowsService1.exe
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\bin\Release\WindowsService1.pdb
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Release\WindowsService1.exe
+C:\Users\BI50649\source\repos\Tranzmit - Client\WindowsService1\obj\Release\WindowsService1.pdb
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\FileTransferService.exe.config
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\FileTransferService.exe
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\FileTransferService.pdb
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\log4net.dll
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\log4net.xml
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\obj\Release\FileTransferService.csproj.AssemblyReference.cache
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\obj\Release\FileTransferService.csproj.GenerateResource.cache
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\obj\Release\FileTransferService.csproj.CoreCompileInputs.cache
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\obj\Release\FileTran.15CF3A3E.Up2Date
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\obj\Release\FileTransferService.exe
+C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\obj\Release\FileTransferService.pdb

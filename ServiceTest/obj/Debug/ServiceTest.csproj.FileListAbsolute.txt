@@ -1,0 +1,12 @@
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\bin\Debug\ServiceTest.exe
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\bin\Debug\ServiceTest.pdb
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\bin\Debug\log4net.dll
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\bin\Debug\log4net.xml
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\obj\Debug\ServiceTest.csproj.AssemblyReference.cache
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\obj\Debug\ServiceTest.ProjectInstaller.resources
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\obj\Debug\ServiceTest.csproj.GenerateResource.cache
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\obj\Debug\ServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\obj\Debug\ServiceT.48EA2C55.Up2Date
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\obj\Debug\ServiceTest.exe
+C:\Users\BI50649\source\repos\Transmit_Service\ServiceTest\obj\Debug\ServiceTest.pdb

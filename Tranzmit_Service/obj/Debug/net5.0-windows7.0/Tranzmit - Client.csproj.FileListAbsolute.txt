@@ -1,0 +1,7 @@
+C:\Users\BI50649\source\repos\Tranzmit - Client\Tranzmit - Client\obj\Debug\net5.0-windows7.0\Tranzmit___Client.Client.resources
+C:\Users\BI50649\source\repos\Tranzmit - Client\Tranzmit - Client\obj\Debug\net5.0-windows7.0\Tranzmit - Client.csproj.GenerateResource.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\Tranzmit - Client\obj\Debug\net5.0-windows7.0\Tranzmit - Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BI50649\source\repos\Tranzmit - Client\Tranzmit - Client\obj\Debug\net5.0-windows7.0\Tranzmit - Client.AssemblyInfoInputs.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\Tranzmit - Client\obj\Debug\net5.0-windows7.0\Tranzmit - Client.AssemblyInfo.cs
+C:\Users\BI50649\source\repos\Tranzmit - Client\Tranzmit - Client\obj\Debug\net5.0-windows7.0\Tranzmit - Client.csproj.CoreCompileInputs.cache
+C:\Users\BI50649\source\repos\Tranzmit - Client\Tranzmit - Client\obj\Debug\net5.0-windows7.0\Tranzmit - Client.csproj.AssemblyReference.cache

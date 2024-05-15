@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\WindowsService1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\BI50649\source\repos\Transmit_Service\WindowsService1\bin\Release\WindowsService1.exe
+Restoring event log to previous state for source Service1.
